@@ -4,9 +4,6 @@ pgrep -x sxhkd > /dev/null || sxhkd &
 
 bspc monitor -d      
 
-
-
-
 nitrogen --restore &
 
 picom --config $HOME/.config/picom/picom.conf &
