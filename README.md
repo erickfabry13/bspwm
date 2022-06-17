@@ -1,11 +1,7 @@
 # bspwm
 
 
-mi personalizacion de bspwm
-
-
-
-necesitaremos tener instalado 
+mi personalizacion de bspwm necesitaremos tener instalado:
 
 bspwm
 
