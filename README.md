@@ -9,12 +9,12 @@ sxhkd
 
 picom
 
-dmenu (opciona) pronto sera rofi
+rofi
 
 polybar
 
 kitty
 
-
+nitrogen
 
 
