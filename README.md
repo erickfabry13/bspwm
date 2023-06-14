@@ -17,4 +17,8 @@ kitty
 
 nitrogen
 
+Lsd
+
+Batcat
+
 
