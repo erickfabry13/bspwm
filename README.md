@@ -17,6 +17,8 @@ kitty
 
 nitrogen
 
+zsh 
+
 Lsd
 
 Batcat
